@@ -1,4 +1,6 @@
-# Aula prática - Markdown
+#  Aula prática - Markdown
+
+![image](https://github.com/Feefbolas/aulaMarkdown/assets/164874979/02928bdb-bb5c-4197-af43-8ad118529814)
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
